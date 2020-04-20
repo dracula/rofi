@@ -1,2 +1,5 @@
-# rofi
-🧛🏻‍♂️ Dark theme for rofi
+# Dracula for rofi
+
+> A dark theme for rofi
+
+![Screenshot](./screenshot.jpg)
