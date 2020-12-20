@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/rofi](https://draculatheme.co
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/firefox/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/rofi/graphs/contributors).
 
 | [![Rafael Lopes](https://avatars2.githubusercontent.com/u/28673457?s=70)](https://github.com/RaphGL) |
 | --- |
