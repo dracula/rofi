@@ -2,7 +2,14 @@
 
 > A dark theme for [rofi](https://github.com/davatorium/rofi).
 
-![Screenshot](./screenshot.png)
+Rofi is an incredibly customisable launcher, here are some example Dracula themes to get you started.
+
+### theme/config1.rasi
+![Screenshot1](./theme/screenshot1.png)
+
+### theme/config2.rasi
+![Screenshot2](./theme/screenshot2.png)
+
 
 ## Install
 
