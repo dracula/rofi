@@ -5,13 +5,13 @@
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 ```
-$ git clone https://github.com/dracula/rofi
+git clone https://github.com/dracula/rofi
+cp rofi/theme/config1.rasi ~/.config/rofi/config.rasi
 ```
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/rofi/archive/master.zip) option and unzip them.
-
-#### Activating theme
-
-Copy the config.rasi file into ~/.config/rofi
+```
+mypref=config1 # or 2 or 3 or whatever, see the themes directory
+curl https://raw.githubusercontent.com/dracula/rofi/master/themes/${mypref}.rasi -o ~/.config/rofi/config.rasi
+```
