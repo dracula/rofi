@@ -13,26 +13,26 @@
     bordercolor: @active-background;
 }
 
-#window {
+window {
     background-color: @background;
     border:           1;
     border-radius: 6;
     border-color: @bordercolor;
     padding:          5;
 }
-#mainbox {
+mainbox {
     border:  0;
     padding: 0;
 }
-#message {
+message {
     border:       1px dash 0px 0px ;
     border-color: @separatorcolor;
     padding:      1px ;
 }
-#textbox {
+textbox {
     text-color: @foreground;
 }
-#listview {
+listview {
     fixed-height: 0;
     border:       2px dash 0px 0px ;
     border-color: @bordercolor;
@@ -40,81 +40,81 @@
     scrollbar:    false;
     padding:      2px 0px 0px ;
 }
-#element {
+element {
     border:  0;
     padding: 1px ;
 }
-#element.normal.normal {
+element.normal.normal {
     background-color: @background;
     text-color:       @foreground;
 }
-#element.normal.urgent {
+element.normal.urgent {
     background-color: @urgent-background;
     text-color:       @urgent-foreground;
 }
-#element.normal.active {
+element.normal.active {
     background-color: @active-background;
     text-color:       @foreground;
 }
-#element.selected.normal {
+element.selected.normal {
     background-color: @selected-background;
     text-color:       @foreground;
 }
-#element.selected.urgent {
+element.selected.urgent {
     background-color: @selected-urgent-background;
     text-color:       @foreground;
 }
-#element.selected.active {
+element.selected.active {
     background-color: @selected-active-background;
     text-color:       @foreground;
 }
-#element.alternate.normal {
+element.alternate.normal {
     background-color: @background;
     text-color:       @foreground;
 }
-#element.alternate.urgent {
+element.alternate.urgent {
     background-color: @urgent-background;
     text-color:       @foreground;
 }
-#element.alternate.active {
+element.alternate.active {
     background-color: @active-background;
     text-color:       @foreground;
 }
-#scrollbar {
+scrollbar {
     width:        2px ;
     border:       0;
     handle-width: 8px ;
     padding:      0;
 }
-#sidebar {
+sidebar {
     border:       2px dash 0px 0px ;
     border-color: @separatorcolor;
 }
-#button.selected {
+button.selected {
     background-color: @selected-background;
     text-color:       @foreground;
 }
-#inputbar {
+inputbar {
     spacing:    0;
     text-color: @foreground;
     padding:    1px ;
 }
-#case-indicator {
+case-indicator {
     spacing:    0;
     text-color: @foreground;
 }
-#entry {
+entry {
     spacing:    0;
     text-color: @foreground;
 }
-#prompt {
+prompt {
     spacing:    0;
     text-color: @foreground;
 }
-#inputbar {
+inputbar {
     children:   [ prompt,textbox-prompt-colon,entry,case-indicator ];
 }
-#textbox-prompt-colon {
+textbox-prompt-colon {
     expand:     false;
     str:        ":";
     margin:     0px 0.3em 0em 0em ;
