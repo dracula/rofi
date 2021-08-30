@@ -14,4 +14,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/rofi/archiv
 
 #### Activating theme
 
-Copy the config.rasi file into ~/.config/rofi
+1. Copy the dracula.rasi file into /usr/share/rofi/themes/
+1. Open Terminal and run `rofi-theme-selector` and select `dracula`
+1. Press `enter` to view the theme
+1. Press `alt+a` to save `dracula` theme for rofi
