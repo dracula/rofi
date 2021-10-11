@@ -13,5 +13,5 @@ cp rofi/theme/config1.rasi ~/.config/rofi/config.rasi
 
 ```
 mypref=config1 # or 2 or 3 or whatever, see the themes directory
-curl https://raw.githubusercontent.com/dracula/rofi/master/themes/${mypref}.rasi -o ~/.config/rofi/config.rasi
+curl https://raw.githubusercontent.com/dracula/rofi/master/theme/${mypref}.rasi -o ~/.config/rofi/config.rasi
 ```
