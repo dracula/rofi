@@ -15,7 +15,7 @@
     font: "Jetbrains Mono 12";
 
     foreground: @drac-fgd;
-    background: @drac-bgd;
+    background-color: @drac-bgd;
     active-background: @drac-pnk;
     urgent-background: @drac-red;
     
@@ -132,4 +132,8 @@
     str:        ":";
     margin:     0px 0.3em 0em 0em ;
     text-color: @drac-grn;
+}
+element-text, element-icon {
+    background-color: inherit;
+    text-color: inherit;
 }
