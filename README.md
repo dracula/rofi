@@ -18,9 +18,9 @@ All instructions can be found at [draculatheme.com/rofi](https://draculatheme.co
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/rofi/graphs/contributors).
 
-| [![Rafael Lopes](https://avatars2.githubusercontent.com/u/28673457?s=70)](https://github.com/RaphGL) |
+| [![Raph](https://avatars2.githubusercontent.com/u/28673457?s=70)](https://github.com/RaphGL) |
 | --- |
-| [Rafael Lopes](https://github.com/RaphGL) |
+| [Raph](https://github.com/RaphGL) |
 
 ## License
 
