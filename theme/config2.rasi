@@ -27,7 +27,7 @@
 }
 
 #window {
-    background-color: @background;
+    background-color: @background-color;
     border:           3;
     border-radius: 6;
     border-color: @bordercolor;
@@ -58,7 +58,7 @@
     padding: 1px ;
 }
 #element.normal.normal {
-    background-color: @background;
+    background-color: @background-color;
     text-color:       @foreground;
 }
 #element.normal.urgent {
@@ -67,7 +67,7 @@
 }
 #element.normal.active {
     background-color: @active-background;
-    text-color:       @background;
+    text-color:       @background-color;
 }
 #element.selected.normal {
     background-color: @selected-background;
@@ -79,10 +79,10 @@
 }
 #element.selected.active {
     background-color: @selected-active-background;
-    text-color:       @background;
+    text-color:       @background-color;
 }
 #element.alternate.normal {
-    background-color: @background;
+    background-color: @background-color;
     text-color:       @foreground;
 }
 #element.alternate.urgent {
