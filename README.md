@@ -6,7 +6,7 @@ Rofi is an incredibly customisable launcher, here are some example Dracula theme
 
 ### theme/config1.rasi
 
-![Screenshot1](./screenshot1.png)
+![Screenshot1](./screenshot.png)
 
 ### theme/config2.rasi
 
