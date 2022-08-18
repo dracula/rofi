@@ -6,6 +6,7 @@
     background-color: #282a36;
     active-background: #6272a4;
     urgent-background: #ff5555;
+    urgent-foreground: #282a36;
     selected-background: @active-background;
     selected-urgent-background: @urgent-background;
     selected-active-background: @active-background;
