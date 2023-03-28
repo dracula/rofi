@@ -27,6 +27,10 @@
     bordercolor: #6272a4;
 }
 
+configuration {
+    show-icons:      true;
+}
+
 #window {
     background-color: @background-color;
     border:           3;
