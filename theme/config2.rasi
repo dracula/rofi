@@ -61,7 +61,7 @@ configuration {
 }
 #element {
     border:  0;
-    padding: 1px ;
+    padding: 3px ;
 }
 #element.normal.normal {
     background-color: @background-color;
