@@ -53,7 +53,7 @@ configuration {
 }
 #listview {
     fixed-height: 0;
-    border:       2px dash 0px 0px ;
+    border:       0px;
     border-color: @bordercolor;
     spacing:      2px ;
     scrollbar:    false;
