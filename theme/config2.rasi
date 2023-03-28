@@ -41,7 +41,7 @@ configuration {
 }
 #mainbox {
     border:  0;
-    padding: 5;
+    padding: 0;
 }
 #message {
     border:       0px;
