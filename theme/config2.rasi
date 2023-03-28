@@ -35,9 +35,9 @@ configuration {
 #window {
     background-color: @background-color;
     border:           3;
-    border-radius: 6;
-    border-color: @bordercolor;
-    padding:          5;
+    border-radius:    6;
+    border-color:     @bordercolor;
+    padding:          15;
 }
 #mainbox {
     border:  0;
