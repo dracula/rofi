@@ -1,3 +1,9 @@
+configuration {
+    show-icons:      true;
+    display-drun:    "";
+    disable-history: false;
+}
+
 * {
     /* Dracula theme colour palette */
     drac-bgd: #282a36;
@@ -25,12 +31,6 @@
     selected-active-background: @active-background;
     separatorcolor: @active-background;
     bordercolor: #6272a4;
-}
-
-configuration {
-    show-icons:      true;
-    display-drun:    "";
-    disable-history: false;
 }
 
 #window {

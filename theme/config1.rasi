@@ -1,5 +1,11 @@
 /*Dracula theme based on the Purple official rofi theme*/
 
+configuration {
+    show-icons:      true;
+    display-drun:    "";
+    disable-history: false;
+}
+
 * {
     font: "Jetbrains Mono 12";
     foreground: #f8f8f2;
@@ -12,12 +18,6 @@
     selected-active-background: @active-background;
     separatorcolor: @active-background;
     bordercolor: @active-background;
-}
-
-configuration {
-    show-icons:      true;
-    display-drun:    "";
-    disable-history: false;
 }
 
 #window {
